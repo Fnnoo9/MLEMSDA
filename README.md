@@ -1,5 +1,5 @@
 # MLEMSDA
-This is a PyTorch implementation of the Meta-Learning Enhanced Multi-Source Domain Adaptation Framework (MLEMSDA) for Cross-User Motor Imagery EEG Transfer Learning.
+This is a PyTorch implementation of the Meta-Learning Enhanced Multi-Source Domain Adaptation for Zero-Calibration Motor Imagery EEG Decoding.
 
 This is an example with openBMI and HGD as source domains and CBCIC as target domain.
 
@@ -14,8 +14,6 @@ openBMI:[Link](http://gigadb.org/dataset/100542)
 HGD:[Link](https://github.com/robintibor/high-gamma-dataset)
 
 CBCIC:[Link](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow)
-
-Competition IV dataset 2b：[Link](https://bbci.de/competition/iv/download/)
 
 ## Sample pre-trained DeepConvNet models
 For CBCICI:  MLEMSDA/pretrain_deep_cbcic/Tpretrain_model/model_cv5.pt
