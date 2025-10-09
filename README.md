@@ -41,3 +41,15 @@ Download the raw dataset from the [resources](https://github.com/HZUBCI/MSDDAEF/
                                                  /parsed_P01T.mat
                                                  /...
 
+# Cite
+
+If used，please cite：
+
+Miao M, Fu W, Zeng H, Xu B, Zhang W, Hu W.  Meta-Learning Enhanced Multi-Source Domain Adaptation for Zero-Calibration Motor Imagery EEG Decoding. submitted to JNM.
+
+# Acknowledgment
+
+We thank Han et al for their wonderful works.
+
+Han, Ji-Wung, et al. "Meta-eeg: Meta-learning-based class-relevant eeg representation learning for zero-calibration brain–computer interfaces." *Expert Systems with Applications* 238 (2024): 121986.https://doi.org/10.1016/j.eswa.2023.121986
+
